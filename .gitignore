@@ -1,0 +1,15 @@
+# Generated Chrome history copy
+History_copy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
